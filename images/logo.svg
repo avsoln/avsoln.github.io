@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="140" height="140" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+    <g id="circle">
+        <circle cx="400" cy="400" r="330" fill-opacity="0.2"/>
+    </g>
+	<g id="logo">
+		<polygon points="200 600, 400 600, 300 500" fill="#ffffff"/>
+		<polygon points="400 200, 600 200, 500 300" fill="#8cc9f0"/>
+		<polygon points="400 200, 600 400, 400 600" fill="#ffffff"/>
+		<polygon points="400 200, 200 400, 400 600" fill="#8cc9f0"/>
+		<polygon points="400 300, 300 400, 400 500" fill="#ffffff"/>
+		<polygon points="400 300, 500 400, 400 500" fill="#8cc9f0"/>
+	</g>
+</svg>
