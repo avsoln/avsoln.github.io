@@ -155,6 +155,7 @@ input, select, textarea {
 
 		}
 
+
 	a {
 		-moz-transition: color 0.2s ease, border-bottom 0.2s ease;
 		-webkit-transition: color 0.2s ease, border-bottom 0.2s ease;
@@ -168,6 +169,10 @@ input, select, textarea {
 		a:hover {
 			border-bottom-color: transparent;
 		}
+
+    span.logo a {
+        border-bottom: none;
+    }
 
 	strong, b {
 		font-weight: 400;
