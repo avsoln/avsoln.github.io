@@ -172,6 +172,11 @@ input, select, textarea {
 
     span.logo a {
         border-bottom: none;
+        display: inline-block;
+    }
+
+    object {
+        pointer-events: none;
     }
 
 	strong, b {
